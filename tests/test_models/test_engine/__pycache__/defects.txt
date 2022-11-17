@@ -1,0 +1,31 @@
+test Id:50388 
+test name: to verify if an operator can distribute funds from store to store when Frozen HO identity status
+comment: on 6th step it orders to enter the shortcode:"HO ORG" if so the transaction will be from org to org. 
+the short code should be org child 
+
+test Id:50389 
+test name: to verify if an operator can distribute funds from store to store when HO float account status is suspended.
+comment: on 6th step it orders to enter the shortcode:"HO ORG" if so the transaction will be from org to org. 
+the short code should be org child 
+
+test Id:50430
+test name: To verify if an operator can initiate Withdraw From Agent when the agent float account status is suspended
+comment: "Organization Funds Management- Business Withdrawal" is not available on the dropdown menu(step 5)
+
+
+test Id:50432
+test name: To verify if an operator can initiate Withdraw From Agent when the float account of the credit party in suspended status
+comment: "Organization Funds Management- Business Withdrawal" is not available on the dropdown menu(step 4)
+
+test Id:50433
+test name: To verify if an operator can initiate Withdraw From Agent when the float account balance is insufficient
+comment: "Organization Funds Management- Business Withdrawal" is not available on the dropdown menu(step 4)
+
+test Id:50434
+test name:To verify that operator can Initiate Withdraw From Agent successfully
+comment: "Organization Funds Management- Business Withdrawal" is not available on the dropdown menu(step 4)
+
+
+test Id:50416
+test name:To verify if agent can move money fromfloat to working account if the float account is suspended.
+comment: "test description and step 4,7 are contradictive.
